@@ -1,0 +1,10 @@
+.viminfo
+*.log
+*.md
+.git
+.gitignore
+Dockerfile
+node_modules
+target
+.idea
+.DS_Store

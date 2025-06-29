@@ -1,0 +1,11 @@
+# Exclude logs, IDE & OS files
+*.log
+.vscode/
+.idea/
+.DS_Store
+.git
+.gitignore
+
+# Keep only the packaged JAR
+!target/
+!target
