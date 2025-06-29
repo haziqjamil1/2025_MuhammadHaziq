@@ -3,9 +3,9 @@ This is the readme for 2025_MuhammadHaziq
 This app is a fullstack coin calculator that uses a Reach frontend and Springboot backend
 
 Prerequisites:
-Java17
-Maven
-Docker
+Java17,
+,Maven
+,Docker
 
 JAR is located at target/OracleAssessment-1.jar
 
